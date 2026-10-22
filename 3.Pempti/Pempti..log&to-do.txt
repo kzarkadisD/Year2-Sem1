@@ -1,5 +1,4 @@
 prep/init git file
 
 Tools :
-dbeaver. pg admin. sql shell
-
+dbeaver. pg admin. sql shell. standalone apps
