@@ -1,4 +1,6 @@
 prep/init git file
 
+22/10
+Intro. general instructions. PP presentation(will be uploiaded)
 Tools :
 dbeaver. pg admin. sql shell. standalone apps
