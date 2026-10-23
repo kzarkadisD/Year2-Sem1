@@ -2,5 +2,6 @@ prep/init git file
 
 
 20/10/26 
- excersise
+ excersise {
 Build a web app which declares 2 variables, assigns values to them and displays the results of the 4 operations(+,=,X , /) in php.
+ } Done 

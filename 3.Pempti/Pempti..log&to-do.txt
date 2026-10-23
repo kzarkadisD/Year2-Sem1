@@ -1,7 +1,8 @@
 prep/init git file
 
 22/10
-Intro. general instructions. PP presentation(will be uploiaded)
+Intro. general instructions. PP presentation(will be uploiaded) 
+did a basic table creation using the sql shell terminal
 Tools :
 dbeaver. https://dbeaver.io/download/
  pg admin ver 18. https://www.enterprisedb.com/postgresql-tutorial-resources-training-1?uuid=867f9c7f-7be7-44ed-b03f-103a0a430d51&campaignId=postgres_rc_18
