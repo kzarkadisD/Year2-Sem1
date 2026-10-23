@@ -1,0 +1,13 @@
+# PDFs
+*.pdf
+
+# PowerPoint files
+*.ppt
+*.pptx
+*.pps
+*.ppsx
+*.pot
+*.potx
+
+# books folder
+books/
