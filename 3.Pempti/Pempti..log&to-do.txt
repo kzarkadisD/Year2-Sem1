@@ -3,4 +3,7 @@ prep/init git file
 22/10
 Intro. general instructions. PP presentation(will be uploiaded)
 Tools :
-dbeaver. pg admin. sql shell. standalone apps
+dbeaver. https://dbeaver.io/download/
+ pg admin ver 18. https://www.enterprisedb.com/postgresql-tutorial-resources-training-1?uuid=867f9c7f-7be7-44ed-b03f-103a0a430d51&campaignId=postgres_rc_18
+ sql shell. https://sourceforge.net/projects/sqlshell/
+    (optional for qshel) Jcurses https://sourceforge.net/projects/javacurses/files/latest/download
